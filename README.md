@@ -1,13 +1,14 @@
 # elm_playground
 ## introduction
-### elm repl
+
+### ```elm repl```
 It lets us interact with Elm expressions in the terminal
 
-### elm reactor
+### ```elm reactor```
 It helps you build Elm projects without messing with the terminal too much
 
-### elm make
+### ```elm make```
 It builds Elm projects. It can compile Elm code to HTML or JavaScript.
 
-### elm install
+### ```elm install```
 Elm packages install
